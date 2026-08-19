@@ -1,0 +1,38 @@
+---
+aid: university-of-technology-sydney
+name: University of Technology Sydney
+description: >-
+  University of Technology Sydney is a higher-education institution in Australia. This profile is a STUB: it
+  records the institution's identity only. No claim is made about its programmable
+  surface -- what it operates, what a vendor operates on its behalf, and what it
+  publishes have not yet been established. Run the university pipeline
+  (all/0-working/pipeline-university.md) to profile it.
+type: Index
+image: ''
+url: https://raw.githubusercontent.com/api-evangelist/university-of-technology-sydney/refs/heads/main/apis.yml
+tags:
+  - Education
+  - Higher Education
+  - University
+  - Research
+  - Australia
+created: '2026-08-19'
+modified: '2026-08-19'
+specificationVersion: '0.23'
+x-type: university
+x-source: qs-ranking-gap
+x-tier: stub
+x-tier-reason: roster-gap
+x-coverage:
+  state: none
+  reason: not_yet_profiled
+  detail: Identity-only stub. No surface discovery has run.
+  assessed: '2026-08-19'
+  method: create-university-stubs.py
+apis: []
+common:
+  - type: Website
+    url: https://www.uts.edu.au/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

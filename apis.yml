@@ -8,6 +8,17 @@ description: >-
   publishes have not yet been established. Run the university pipeline
   (all/0-working/pipeline-university.md) to profile it.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: ''
 url: https://raw.githubusercontent.com/api-evangelist/university-of-technology-sydney/refs/heads/main/apis.yml
 tags:
